@@ -55,3 +55,10 @@ layout: default
 　　最后，支付现金（中非法郎或欧元）购买套餐是最普遍的方式。当地的移动支付远没有国内发达，所以备好零钱总是没错的。
 
 　　希望这份指南能帮你无缝连接上加蓬的网络世界。毕竟，一张小小的SIM卡，背后连着的可是探索这个中非国家的无限可能。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Gabon eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/gabon-data-plans)
